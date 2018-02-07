@@ -20,14 +20,12 @@ ul {
   color: white;
   width: 50%;
   height: 200;
-
-
+  overflow: scroll;
 }
 
 .cover {
   object-fit: cover;
-  width: 100px;
-  height: 150px;
+  padding-bottom: 50%;
 }
 
 li {
