@@ -12,17 +12,13 @@ ul {
     overflow: hidden;
 }
 
-background{
-  color: grey;
-}
-
-
-
-intro {
+.intro {
   text-align: center;
   border: border: 4px solid white;
   font-size: 12px;
   font-weight: 300;
+  width: 600;
+  height: 400;
 
 }
 
