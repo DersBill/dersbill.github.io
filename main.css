@@ -8,8 +8,10 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
 .title {
-  color: white;
+  color: white
+  margin: auto;
 }
 
 ul {
@@ -25,6 +27,7 @@ ul {
 .hdtext{
   color: white;
 }
+
 .intro {
   text-align: center;
   border: 4px solid white;
@@ -32,6 +35,7 @@ ul {
   margin: auto;
   font-weight: 300;
   color: white;
+  padding: 5px;
   width: 50%;
   height: 50%;
   overflow: scroll;
