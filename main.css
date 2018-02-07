@@ -33,6 +33,7 @@ li {
 li a {
     display: block;
     color: white;
+    z-index: 2;
     text-decoration: none;
     display: block;
     text-align: center;
