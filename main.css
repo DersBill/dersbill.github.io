@@ -1,5 +1,6 @@
 head {
   font-size: 16px;
+  color: white;
 }
 html {
   background: url(http://res.cloudinary.com/darkroom-tech/image/upload/v1517975738/rawImages/Darkroom%20Prints%20Braedin%20Toth%20ghdgehdaab.jpg) no-repeat center center fixed;
@@ -48,6 +49,7 @@ ul {
 
 li {
   float: left;
+  color: white;
 }
 
 li a {
@@ -57,6 +59,7 @@ li a {
     text-decoration: none;
     text-align: center;
     font: Serif;
+    float:right;
 }
 
 li a:hover {
@@ -70,6 +73,7 @@ a {
     background-color: #0D7E82;
     opacity: .22;
     z-index: 1;
+    color: white;
 }
 
 .active {
