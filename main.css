@@ -50,8 +50,13 @@ a {
     padding: 8px;
     background-color: #0D7E82;
     opacity: .22;
+    z-index: 1;
 }
 
 .active {
     background-color: #4CAF50;
+}
+
+.background{
+  background-size: cover;
 }
