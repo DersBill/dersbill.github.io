@@ -22,8 +22,12 @@ ul {
 
 }
 
+.background{
+  background-size: cover;
+
+}
 li {
-  float: right;
+  float: left;
 }
 
 li a {
