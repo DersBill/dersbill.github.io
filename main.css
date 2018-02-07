@@ -1,15 +1,12 @@
 head {
   font-size: 16px;
 }
-
-#bg {
-  position: fixed;
-  top: 0;
-  left: 0;
-
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
+html {
+  background: url(http://res.cloudinary.com/darkroom-tech/image/upload/v1517975738/rawImages/Darkroom%20Prints%20Braedin%20Toth%20ghdgehdaab.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 ul {
